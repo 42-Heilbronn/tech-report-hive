@@ -1,13 +1,20 @@
 const Logo = () => {
   return (
-    <svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-          viewBox="0 0 589 200" style="enable-background:new 0 0 589 200;" xml:space="preserve">
+    <svg
+      id="Ebene_1"
+      x="0px"
+      y="0px"
+      viewBox="0 0 589 200"
+      style={{ enableBackground: "new 0 0 589 200" }}
+      xmlSpace="preserve"
+      className="h-4 w-auto dark:fill-gray-100"
+    >
       <g id="Ebene_1_1_">
         <g>
-          <polygon points="157.5,0 105,0 0,105 0,147.5 105,147.5 105,200 157.5,200 157.5,105 52.5,105 		"/>
-          <polygon points="180,52.5 232.5,0 180,0 		"/>
-          <polygon points="285,52.5 285,0 232.5,0 232.5,52.5 180,105 180,157.5 232.5,157.5 232.5,105 		"/>
-          <polygon points="285,105 232.5,157.5 285,157.5 		"/>
+          <polygon points="157.5,0 105,0 0,105 0,147.5 105,147.5 105,200 157.5,200 157.5,105 52.5,105" />
+          <polygon points="180,52.5 232.5,0 180,0" />
+          <polygon points="285,52.5 285,0 232.5,0 232.5,52.5 180,105 180,157.5 232.5,157.5 232.5,105" />
+          <polygon points="285,105 232.5,157.5 285,157.5" />
           <g>
             <g>
               <path d="M369,127.9h11l1.3-10.4h6.4l-3.4,27.6h-6.4l1.5-11.9h-11l-1.5,11.9h-6.4l3.4-27.6h6.4L369,127.9z"/>
